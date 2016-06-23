@@ -1,3 +1,5 @@
+package Tester;
+
 public class Tester {
    public Tester () {
       System.out.println ("Hello there");
